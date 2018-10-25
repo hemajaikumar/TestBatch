@@ -8,6 +8,12 @@ public class TestList {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Sample Program for branching Techniques");
+		
+	}
+		public static void display(){
+			System.out.println("WElcome to branch2");
+		}
+		
 	}
 
-}
+
